@@ -1,5 +1,5 @@
 require_relative 'spec_helper'
-require_relative '../enumerables'
+require_relative '../enumerables.rb'
 
 describe '#get_names' do
 
